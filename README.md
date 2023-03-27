@@ -1,2 +1,2 @@
-This is the initial code
+This is the initial code \n
 Added code in dev branch
